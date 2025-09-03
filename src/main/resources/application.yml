@@ -1,0 +1,9 @@
+bfhl:
+  name: "Mohammed Mohsin Hussain"
+  regNo: "65"      
+  email: "mohsinmahin0508@gmail.com"
+  finalQuery: ""        
+
+spring:
+  main:
+    web-application-type: none   
